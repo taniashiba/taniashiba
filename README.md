@@ -10,7 +10,7 @@ I am a Technical Community Builder, Content Strategist, and Inclusivity Advocate
 - ⚡ Fun fact: I have two cats named Milk & Cheese.
 
 ### 💭 Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=taniashiba)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=taniashiba&theme=violet-punch)](https://git.io/streak-stats)
 
 ### ✍🏽 Recent blog posts:
 
