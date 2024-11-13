@@ -1,7 +1,7 @@
 ## Hiya, I'm Tania! Or @taniashiba 👋
 
 ### 🤙🏽 More about me:
-I am a Technical Community Builder, Content Strategist, and Inclusivity Advocate.
+I am a Technical Community Builder, Content Strategist, and Inclusivity Enthusiast.
 
 - 🔭 I’m currently working on building nurturing and growing open source communities at Block.
 - 🌱 I’m currently learning how to be an active contributor on GitHub, plus some Python!
