@@ -13,6 +13,7 @@ I am a Technical Community Builder, Content Strategist, and Inclusivity Enthusia
 [![GitHub Streak](https://streak-stats.demolab.com/?user=taniashiba&theme=violet-punch)](https://git.io/streak-stats)
 
 ### ✍🏽 Recent blog posts:
+- [AI Agents Are Like Fish Tanks](https://dev.to/taniashiba/ai-agents-are-like-fish-tanks-37d4)
 - [How Decentralized Apps Can Make Everyday Tasks Easy](https://dev.to/tbdevs/how-decentralized-apps-can-make-everyday-tasks-easy-o51)
 - [TBD x Hacktoberfest](https://dev.to/tbdevs/tbd-x-hacktoberfest-34c0)
 
