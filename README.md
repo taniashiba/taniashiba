@@ -4,8 +4,8 @@
 I am a Technical Community Builder, Content Strategist, and Inclusivity Enthusiast.
 
 - 🔭 I’m currently working on building nurturing and growing open source communities at Block.
-- 🌱 I’m currently learning how to be an active contributor on GitHub, plus some Python!
-- 💬 Ask me about community, accessibility, content, events, and Godzilla.
+- 🌱 I’m currently actively contributing to goose, with the help of goose, in my everyday!
+- 💬 Ask me about community, AI workflows, content, events, and Godzilla.
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have two cats named Milk & Cheese.
 
